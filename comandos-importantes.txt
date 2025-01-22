@@ -1,0 +1,33 @@
+Sites importantes:
+
+https://www.python.org/ -> site principal do Python;
+https://pypi.org/       -> repositório de bibliotecas do Python;
+https://jupyter.org/    -> jupyter notebook, site principal e documentação;
+
+Comandos PYTHON:
+    python ./ -> executa um arquivo .py;
+    python -m venv [nome do ambiente] -> cria um ambiente virtual Pythom. ex: nome ambiente .venv;
+      - .\.venv\Scripts\activate -> é necessário ativar o ambiente virtual antes de utilizar;
+    python -m pip [comando] -> é necessário utilizar python -m dentro do ambiente virtual após a ativação;
+
+Comandos PIP:
+    pip install -> instala uma dependência, se a versão não for informada ele instala a última versão;
+    pip list -> mostra todas as bibliotecas instaladas globalmente;
+    pip show [dependencia] -> mostra as informações detalhadas da dependência;
+    pip freeze > requirements.txt -> commando para criar e preencher o arquivo requirements.txt automaticamente;
+    pip install -r requirements.txt -> instala todas as dependências necessárias do requirements.txt
+
+Comandos Jupyter notebook:
+    pip install notebook -> instala as dependências necessárias para subir um notebook em ambiente local;
+    jupyter-notebook -> comando para subir uma instância do notebook em ambiente local via navegador; 
+
+Comandos GIT:
+    configurar email e usuário.
+	  - git config --global user.name ""
+	  - git config --global user.email ""
+    git init -> inicializa o repositório.
+	GitIgnore -> ajustar o que deve ser ignorado, venv, ipynb_checkpoints...
+	git add . -> adiciona os arquivos para subir.
+	git commit -m "" -> commit
+	git log -> mostra os commits.
+	git push

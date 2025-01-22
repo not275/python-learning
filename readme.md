@@ -1,12 +1,11 @@
-# Inicial
+# Python Learning
 
-Este é um repositório para armazenar o workspace de execicícios e projetos relacionados com o curso de Python
+O objetivo deste repositório é para armazenar o workspace com diretórios de projetos do curso de Python;
 
 ## SUMÁRIO
 
-### 1 - primeiro_projeto
- * Este é um projeto para aprender o conceitos básicos de um projeto em Python e criação de ambiente virtual;
+### Seção 1: introdução
+ * Diretório com projetos iniciais sobre os conceitos básicos de Python como arquivos .py, .ipynb e ambiente virtual;
 
-### 2 - interactive-python
- * Este é um projeto para aprender sobre os arquivos do tipo ipynb, de execução interativa, via interpretador;
-
+### Seção 2: fundamentos
+ * Diretório que concentra todos os projetos relacionados as aulas da seção de fundamentos;
