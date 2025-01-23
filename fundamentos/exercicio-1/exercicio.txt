@@ -1,0 +1,3 @@
+1 - Escreva um programa que lê dois nomes e retorne uma string formata no formato "ÚltimoNome, PrimeiroNome";
+2 - Inverta a ordem das palavras em uma string fornecida;
+3 - Verifique se uma string fornecida é um palíndromo (pode ser lida da mesma forma de trás pra frente);
